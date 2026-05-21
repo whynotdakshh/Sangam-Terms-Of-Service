@@ -1,95 +1,58 @@
-# 📜 Melvix Terms of Service
+# ZyroN Terms of Service
 
-_Last Updated: May 04, 2026_
-
-These Terms of Service ("Terms") govern your use of **Melvix**, a Discord music bot.
-
-By inviting or using Melvix, you agree to these Terms.
+Welcome to **ZyroN**! By using ZyroN, you agree to comply with these Terms of Service (ToS). Please read them carefully.  
 
 ---
 
-## 📌 Acceptance of Terms
-
-By using Melvix, you confirm that:
-- You comply with Discord’s [Terms of Service](https://discord.com/terms)
-- You are responsible for your usage of the bot
+## **1. Acceptance of Terms**
+By interacting with ZyroN, you agree to these terms and acknowledge that the bot is provided "as-is" without warranties of any kind. If you do not agree, please do not use ZyroN.  
 
 ---
 
-## ⚙️ Description of Service
-
-Melvix provides:
-
-- Music playback functionality
-- Queue and track management
-- Music-related commands and utilities
-
-Features may be modified, updated, or removed at any time without notice.
+## **2. Bot Usage**
+ZyroN is designed for **multipurpose server management**, including giveaways, leveling, role management, and other utility features. Users are responsible for using the bot **lawfully and ethically**.
 
 ---
 
-## 🚫 Prohibited Usage
-
-You agree NOT to:
-
-- Use the bot for illegal or harmful activities
-- Spam or abuse commands
-- Attempt to exploit, reverse engineer, or disrupt the bot
-- Violate [Discord’s guidelines](https://discord.com/guidelines) using the bot
+## **3. User Responsibilities**
+- Do not attempt to abuse, hack, or modify ZyroN.  
+- Do not use ZyroN for spam, harassment, or illegal activities.  
+- Respect server rules and Discord Terms of Service.  
 
 ---
 
-## 🔒 Privacy
-
-Your use of Melvix is also governed by our Privacy Policy.
-
-We only collect data necessary for functionality.
+## **4. Data Collection**
+ZyroN collects **server IDs and user IDs** to provide and maintain its features. All data is stored securely and only used for bot functionality.  
+For more details, see our **[Privacy Policy](https://github.com/whynotdakshh/Zyron-Privacy-Policy)**.  
 
 ---
 
-## ⚠️ Service Availability
-
-- Melvix is provided **"as-is"**
-- We do not guarantee uptime or error-free service
-- The bot may be unavailable due to maintenance or updates
-
----
-
-## 🚷 Termination
-
-We reserve the right to:
-
-- Block users or servers
-- Restrict or remove access at any time
-- Take action against misuse or violations
+## **5. Developer Rights**
+- ZyroN developers may update, modify, or remove features at any time.  
+- Developers are not responsible for any server or user issues caused by misuse.  
+- All intellectual property, code, and branding belong to the ZyroN development team.  
 
 ---
 
-## ⚖️ Limitation of Liability
-
-We are not responsible for:
-
-- Data loss
-- Downtime or service interruptions
-- Damages caused by misuse of the bot
+## **6. Limitation of Liability**
+ZyroN is provided as a free service. The developers are **not liable for any damages, losses, or issues** arising from the use of the bot. Use it at your own risk.  
 
 ---
 
-## 🔄 Changes to Terms
-
-We may update these Terms at any time.
-
-Continued use of Melvix after updates means you accept the revised Terms.
+## **7. Account & Server Access**
+- Server owners and admins control settings and bot permissions.  
+- Developers have access to bot data **only for maintenance, debugging, or feature improvement**.  
 
 ---
 
-## 📩 Contact
-
-For support or legal inquiries:
-
-- Developer: [Dakshhh](http://discord.com/users/1304640723458457712)
-- Discord: [Melvix HQ](https://discord.gg/dtm6RcqGEy)
+## **8. Termination**
+The developers reserve the right to **remove ZyroN from any server** or **restrict access** at any time for abuse, violation of rules, or other reasons.  
 
 ---
 
-By using **Sangam**, you agree to these Terms of Service.
+## **9. Contact & Support**
+For support, questions, or data deletion requests, please join our **[support server](https://discord.gg/JygUqZBvTb)**.
+
+---
+
+By using ZyroN, you acknowledge that you have read and agreed to these Terms of Service.
